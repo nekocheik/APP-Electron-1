@@ -1,0 +1,22 @@
+{
+  "name": "app-electron-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekocheik/APP-Electron-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nekocheik/APP-Electron-1/issues"
+  },
+  "homepage": "https://github.com/nekocheik/APP-Electron-1#readme",
+  "devDependencies": {
+    "electron": "^6.0.9"
+  }
+}
