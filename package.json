@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/nekocheik/APP-Electron-1#readme",
   "devDependencies": {
-    "electron": "^6.0.9"
+    "electron": "^18.3.7"
   }
 }
